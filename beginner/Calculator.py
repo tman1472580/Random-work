@@ -25,14 +25,14 @@ d. Divide
 # result = int(num1) + int(num2) #whole numbers
 #result = float(num1) + float(num2) #decimal any numbers
 if choice=="a":
-    print("The answre is:", end="") #the end is to move the answer up
+    print("The answer is:", end="") #the end is to move the answer up
     plus(num1,num2)
 elif choice=="b":
-    print("The answre is:", end="") #the end is to move the answer up
+    print("The answer is:", end="") #the end is to move the answer up
     minus(num1,num2)
 elif choice=="c":
-    print("The answre is:", end="") #the end is to move the answer up
+    print("The answer is:", end="") #the end is to move the answer up
     multiply(num1,num2)
 elif choice=="d":
-    print("The answre is:", end="") #the end is to move the answer up
+    print("The answer is:", end="") #the end is to move the answer up
     divide(num1,num2)
